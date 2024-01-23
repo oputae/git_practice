@@ -1,3 +1,1 @@
-Hello Git and GitHub
-Adding another line
-Solidity code incoming
+ #This is a H1 heading 
